@@ -11,7 +11,8 @@ module_id ='mdlJhExpoInfoCom'
 module_name ='模块演示'
 
 #获取数据中台数据库连接的token,演示数据为py_test
-dms_token ='C0426D23-1927-4314-8736-A74B2EF7A039'
+
+erp_token ='C0426D23-1927-4314-8736-A74B2EF7A039'
 
 #加载数据中台的所有系统包及程序包
 tstk::import(app_id)
